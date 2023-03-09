@@ -1,4 +1,10 @@
-#centrado{
+  #barra{
+  border: solid 1px black;
+  width: 50%;
+  margin: 0 auto;
+  padding: 5px;
+  }    
+  #centrado{
     width: 80%;
     margin: 0 auto;
     padding: 5px;
