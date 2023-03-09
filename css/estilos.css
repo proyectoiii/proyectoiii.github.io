@@ -1,9 +1,16 @@
-  #barra{
-  border: solid 1px black;
-  width: 50%;
-  margin: 0 auto;
-  padding: 5px;
-  }    
+nav ul{
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+
+nav ul li{
+  margin-left: 15px;
+  margin-right: 15px;
+  padding: 15px 15px;
+  border-radius: 2px;
+  border: solid black 1px;
+} 
   #centrado{
     width: 80%;
     margin: 0 auto;
