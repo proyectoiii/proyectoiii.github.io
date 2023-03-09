@@ -1,0 +1,22 @@
+centrado{
+    width: 80%;
+    margin: 0 auto;
+    padding: 5px;
+  }  
+  fieldset{
+    margin-bottom: 10px;
+  }
+  legend{
+    border: solid 2 px #6db8ff;
+    padding: 5px;
+    font-weight: bold;
+    border-bottom: solid;
+    background-color: #6db8ff;
+  }
+  #fotoperfil{
+    margin: 5px;
+    border: solid 2 px black;
+  }
+  body{
+    background-color: #ffb46d;
+  }
